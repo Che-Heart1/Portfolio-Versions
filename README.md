@@ -16,15 +16,6 @@ Each version represents a specific stage in my learning journey as I build stron
 - No animations
 - Focus on fundamentals and readability
 
-### v2.0 – Flexbox Layout (Planned)
-- Introduction of Flexbox
-- Improved layout control
-- Cleaner alignment
-
-### v3.0 – CSS Grid (Planned)
-- Grid-based layouts
-- More complex page structures
-
 ---
 
 ## Purpose
