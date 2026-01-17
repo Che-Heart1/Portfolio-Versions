@@ -1,0 +1,54 @@
+/* 1. Universal Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* 2. Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    /* Clean, modern font */
+    line-height: 1.6;
+    /* Makes text easier to read */
+    background-color: #f4f4f4;
+    /* Light grey background (easier on eyes than pure white) */
+    color: #333;
+    /* Dark grey text (easier than pure black) */
+    padding: 20px;
+    /* Adds breathing room around the whole page */
+}
+
+/* 3. Section Styling */
+header,
+main,
+footer {
+    background-color: white;
+    /* White cards on the grey background */
+    padding: 20px;
+    /* Space inside the cards */
+    margin-bottom: 20px;
+    /* Space between the cards */
+    border-bottom: 2px solid #ddd;
+    /* A subtle line at the bottom */
+}
+
+/* Navigation Links */
+nav ul {
+    list-style-type: none;
+    /* Removes the bullet points */
+    padding: 0;
+}
+
+nav a {
+    text-decoration: none;
+    /* Removes the underline from links */
+    color: #007bff;
+    /* A nice professional blue */
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #0056b3;
+    /* Darker blue when you mouse over it */
+}
